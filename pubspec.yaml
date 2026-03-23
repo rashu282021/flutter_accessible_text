@@ -1,7 +1,7 @@
 name: flutter_accessible_text
 description: " A package for accessible text scaling in Flutter apps"
 version: 0.0.1
-homepage:
+homepage: https://github.com/rashu282021/flutter_accessible_text
 
 environment:
   sdk: ^3.11.0
