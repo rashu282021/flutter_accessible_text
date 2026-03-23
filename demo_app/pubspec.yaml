@@ -1,0 +1,16 @@
+name: flutter_accessible_text_demo
+description: Demo app for flutter_accessible_text package
+version: 0.0.1
+publish_to: "none"
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_accessible_text:
+    path: .. # <-- go up one level to package root
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
