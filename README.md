@@ -22,4 +22,4 @@ Add this to your package `pubspec.yaml`:
 dependencies:
   flutter_accessible_text:
     git:
-      url: https://github.com/yourusername/flutter_accessible_text.git
+      url: https://github.com/rashu282021/flutter_accessible_text.git
